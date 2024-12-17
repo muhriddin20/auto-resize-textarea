@@ -1,0 +1,1 @@
+Ushbu "auto-resize-textare" loyihasi HTML, CSS va JavaScriptda bajarildi. Textarea balandligini o'zgartirish uchun javascriptda "keyup" eventi yuzaga kelganda textareaning joriy vaqtdagi balandligi olinib uning oldingi balandligi ustiga yozildi.
